@@ -591,8 +591,4 @@ textarea {
     #footer-menu li + li:before {
         display: none;
     }
-    
-    .widget_gallery li {
-        width: 50%;
-    }
 }
